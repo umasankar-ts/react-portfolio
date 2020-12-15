@@ -2,12 +2,12 @@ import React, {Component} from 'react';
 
 class MessageComponent extends Component{
 	lockScreen(){
-		 if (window.screen.width < 830) {		 	
+		 // if (window.screen.width < 830) {		 	
 				document.documentElement.requestFullscreen();
 				window.screen.orientation.lock('landscape').catch(function(error) {
     			//console.log('')
 			});
-		}
+		// }
 	}
 	render(){
 		return(
