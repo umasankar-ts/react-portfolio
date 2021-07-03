@@ -153,10 +153,10 @@ p {
 	-webkit-background-image: linear-gradient(to right, #264460, #214a71);
 	-moz-background-image: linear-gradient(to right, #264460, #214a71);
 	-o-background-image: linear-gradient(to right, #264460, #214a71);	
-	/*box-shadow: 10px 15px 30px 1px rgba(0, 0, 0, .1);
+	box-shadow: 10px 15px 30px 1px rgba(0, 0, 0, .1);
 	-webkit-box-shadow: 10px 15px 30px 1px rgba(0, 0, 0, .1);
 	-moz-box-shadow: 10px 15px 30px 1px rgba(0, 0, 0, .1);
-	-o-box-shadow: 10px 15px 30px 1px rgba(0, 0, 0, .1);*/
+	-o-box-shadow: 10px 15px 30px 1px rgba(0, 0, 0, .1);
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
 	position: fixed;
