@@ -50,8 +50,8 @@ class EducationComponent extends Component{
                                             <div className="col-md-12">
                                                 <h6><b>SSLC</b></h6>
                                                 <p className="secondary-dark-font">Sethupathi Higher Secondary School, Madurai</p>
-                                                <p className="dark-bg-font">March 2008</p>
-                                                <h6>65.5%</h6>
+                                                <p className="dark-bg-font">March 2007</p>
+                                                <h6>65.05%</h6>
                                             </div>                                            
                                         </div>
                                     </div>
