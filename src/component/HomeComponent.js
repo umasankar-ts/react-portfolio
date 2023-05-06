@@ -33,8 +33,11 @@ class HomenewComponent extends Component {
     	 			 			<div className="name-sec">
 	    	 			 			<h6 className="animated fadeInRight anim-delay-3s">This is me</h6>
 	    	 			 			<h1 className="animated fadeInRight anim-delay-3s primary-dark-font">UMASANKAR T S</h1>
-	    	 			 			<h5 className="animated fadeInRight anim-delay-6s">Android Development Team Lead</h5>
-	    	 			 			<p className="animated fadeInRight anim-delay-6s mb-0">Artistic Software Engineer with <b>5+ years</b> of experience including CryptoCurrency Trading, Location Based Blood Request, Social Club Management system and UBER clone apps. Skilled with Solid understanding of full mobile and software development life cycles, UI/UX and Agile Software Development Methodologies. Experienced in Google Map api integrations and Firebase Realtime Database chating.</p>
+	    	 			 			<h5 className="animated fadeInRight anim-delay-6s">Android Developer / Architect</h5>
+	    	 			 			<p className="animated fadeInRight anim-delay-6s mb-0">Artistic Software Engineer with <b>7+ years</b> of experience including CryptoCurrency Trading, Location Based Blood Request, Social Club Management system and UBER clone apps. Skilled at translating business needs into technical solutions and
+fervently driven to ensure
+scalability, quality, usability, and
+security.</p>
 	    	 			 			<div className="animated fadeInRight anim-delay-9s mb-5">
 	    	 			 				<a href="tel:8807527642" className="font-icon-card primary-dark-font"><i className="lni-mobile"/></a>
 	    	 			 				<a href="mailto:umasankar.tsj@gmail.com" className="font-icon-card primary-dark-font">
