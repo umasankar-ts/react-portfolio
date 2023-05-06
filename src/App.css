@@ -703,3 +703,6 @@ p {
 	-webkit-transform: scale(1.2);
 	transform: scale(1.2)
 }
+.padding-bottom-none{
+	padding-bottom: 0 !important
+}
