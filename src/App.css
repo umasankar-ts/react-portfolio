@@ -93,8 +93,9 @@ p {
 	color: var(--primary-dark-font);
 }
 
-.primary-light-font {
+.primary-light-font {	
 	color: var(--primary-dark-font);
+
 }
 
 .content-light-bg {
@@ -616,7 +617,7 @@ p {
 }
 .font-icon-card:hover {
 	color: var(--white-color) !important;
-	background-color: var(--primary-dark-bg)
+	background-color: var(--primary-light-bg)
 }
 .home-gif1 {
 	position: absolute;
@@ -714,3 +715,4 @@ p {
 .text-decor:active:hover{
 	text-decoration: underline;
 }
+

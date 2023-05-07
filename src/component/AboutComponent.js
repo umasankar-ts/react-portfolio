@@ -28,7 +28,7 @@ class AboutComponent extends Component {
                                     				<p className="about-designation">Android Development Team Lead</p>
                                     				<p><i className="lni-envelope align-middle primary-light-font"/> <a href="mailto:umasankar.tsj@gmail.com" className="text-word-br primary-light-font text-decor">&nbsp;umasankar.tsj@gmail.com</a></p>
                                     				<p><i className="lni-mobile align-middle primary-light-font"/> <a href="tel:8807527642" className="primary-light-font text-decor">&nbsp;8807527642</a></p>
-                                    			</div> 
+                                    			</div>    
 	                                    	</div>	                                    	
 	                                    </div>
 	                                </div>
