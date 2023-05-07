@@ -94,7 +94,7 @@ p {
 }
 
 .primary-light-font {
-	color: var(--primary-light-font);
+	color: var(--primary-dark-font);
 }
 
 .content-light-bg {
@@ -181,7 +181,7 @@ p {
 	white-space: nowrap;
 	border-top-left-radius: 15px;
 	border-bottom-left-radius: 15px;
-	color: var(--white-color);
+	color: var(--secondary-light-font);
 	outline: 0
 }
 
@@ -616,7 +616,7 @@ p {
 }
 .font-icon-card:hover {
 	color: var(--white-color) !important;
-	background-color: var(--primary-light-bg)
+	background-color: var(--primary-dark-bg)
 }
 .home-gif1 {
 	position: absolute;
@@ -705,4 +705,12 @@ p {
 }
 .padding-bottom-none{
 	padding-bottom: 0 !important
+}
+
+.text-decor,
+.text-decor:hover,
+.text-decor:focus,
+.text-decor:active,
+.text-decor:active:hover{
+	text-decoration: underline;
 }

@@ -26,7 +26,7 @@ class SidebarComponent extends Component {
                         <b className="first-sec"></b>
                         <b className="second-sec"></b>
                     </li>
-                    <li><NavLink activeClassName='is-active' to="/qualification"><i className="lni-book sidebar-nav-menu-icon secondary-light-font"></i>Core Qualification</NavLink>
+                    <li><NavLink activeClassName='is-active' to="/qualification"><i className="lni-book sidebar-nav-menu-icon secondary-light-font"></i>Skill sets</NavLink>
                         <b className="first-sec"></b>
                         <b className="second-sec"></b>
                     </li>
